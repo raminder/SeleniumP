@@ -1,0 +1,20 @@
+{
+"username": "rkaur10@sapient.com",
+"Password": "testing@123",
+"address": [
+{
+"address1": "36",
+"address2": "Ontario",
+"address3": "Point",
+"city": "LONDON",
+"postcode": "SE167EE"
+},
+
+{
+"address1": "79 Johnson",
+"address2": "Road",
+"address3": "",
+"city": "Hounslow",
+"postcode": "TW5 9LH"
+}]
+}
